@@ -27,11 +27,6 @@
             Other<input type="radio" name="gender"></td>
         </tr>
         <tr>
-            <td colspan="2">Eliam<input type="checkbox">
-            Ericka<input type="checkbox">
-            Tristan<input type="checkbox"></td>
-        </tr>
-        <tr>
             <td colspan="2">Birthday:
             <select>
             <option>Jan</option>
